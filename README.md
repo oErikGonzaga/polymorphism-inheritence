@@ -65,4 +65,4 @@ TOTAL TAXES: $ 97000.00
 
 ![myImage](https://github.com/devsuperior/aulao007/raw/master/domain-model.png)
 
-### Creditos: Conteudo aplicado baseado no exercicio do Canal DevSuperior
+*Creditos: Conteudo aplicado baseado no exercicio do Canal DevSuperior*
