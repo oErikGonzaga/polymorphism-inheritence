@@ -3,11 +3,11 @@ package com.gonzaga.polymorphismInheritance.entities;
 public abstract class TaxPayer {
 
     private String name;
-    private Double annualIncome;
+    private double annualIncome;
 
     public TaxPayer(){
     }
-    public TaxPayer(String name, Double annualIncome) {
+    public TaxPayer(String name, double annualIncome) {
         this.name = name;
         this.annualIncome = annualIncome;
     }
@@ -20,11 +20,11 @@ public abstract class TaxPayer {
         this.name = name;
     }
 
-    public Double getAnnualIncome() {
+    public double getAnnualIncome() {
         return annualIncome;
     }
 
-    public void setAnnualIncome(Double annualIncome) {
+    public void setAnnualIncome(double annualIncome) {
         this.annualIncome = annualIncome;
     }
 
